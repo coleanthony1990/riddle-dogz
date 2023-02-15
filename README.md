@@ -1,1 +1,1 @@
-Riddledogz is a tiny react app that sets a user up with a riddle and allows the user to view a new riddle by clicking a button
+Riddledogz is a tiny react app that sets a user up with a riddle and allows the user to view a new riddle by clicking a button. To be honest, the api is a little wonky so the riddles aren't that great.
